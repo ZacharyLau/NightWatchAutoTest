@@ -1,0 +1,14 @@
+{
+  "name": "autotest",
+  "version": "1.0.0",
+  "description": "First automated testing project",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}

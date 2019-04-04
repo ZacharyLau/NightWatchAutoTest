@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="artsyjewels.addToCartWPOM"
+    errors="0" failures="0" hostname="" id="" package="artsyjewels" skipped="0"
+    tests="1" time="5.136" timestamp="Wed, 12 Dec 2018 01:47:06 GMT">
+  
+    <testcase name="add a featured product to cart" classname="artsyjewels.addToCartWPOM" time="5.136" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
